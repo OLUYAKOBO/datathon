@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Exam Outcome </title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link  rel="icon" href="{{url_for('static', filename='image.jpg')}}" />
+
+    <style>
+        /* Add background color */
+        body {
+            background-color: #dfdffc; /* Light gray background */
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+        }
+
+        /* Styling the form */
+        .form-container {
+            background-color: rgba(255, 255, 255, 0.8); /* White background with transparency */
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2); /* Adds shadow for better design */
+        }
+
+        h2 {
+            color: #333;
+            font-weight: bold;
+            text-shadow: 1px 1px 5px #888; /* Subtle text shadow */
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border: none;
+        }
+
+        .btn-primary:hover {
+            background-color: #121213; /* Darker blue on hover */
+        }
+    </style>
+
+</head>
+<body>
+    <div class="container mt-5">
+        <h2 class="text-center">Student Exam Outcome</h2>
+        <form action="/predict" method="post" class="mt-4">
+            <div class="form-group">
+                <label for="study_hours">Study hours:</label>
+                <input type="number" step="0.01" min="1" max ="30" name="study_hours" id="study_hours" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="acad_performance">Student Academic Performance:</label>
+                <input type="number" step="0.01" min="1" max="100" name="acad_performance" id="acad_performance" class="form-control" required>
+            </div>
+            <div class="form-group">
+                <label for="stud_percent_pass">School's pass percentage:</label>
+                <input type="number" step="0.01" min="1" max="100" name="stud_percent_pass" id="stud_percent_pass" class="form-control" required>
+            </div>
+
+            <div class="form-group">
+                <label for="stud_performance_impact">Student performance impact:</label>
+                <input type="number" step="0.01" min="1" max="100" name="stud_performance_impact" id="stud_performance_impact" class="form-control" required>
+            </div>
+
+            <div class="form-group">
+                <label for="number_of_children">Parents' Number of children:</label>
+                <input type="number" step="1" min="1" max="8" name="number_of_children" id="number_of_children" class="form-control" required>
+            </div>
+
+
+            <div class="form-group">
+                <label for="gender">Gender of student:</label>
+                <select name="gender" id="gender" class="form-control" required>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="parental_involvement">Parental involvement:</label>
+                <select name="parental_involvement" id="parental_involvement" class="form-control" required>
+                    <option value="High">High</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="fac_standard">School's Facility standard:</label>
+                <select name="fac_standard" id="fac_standard" class="form-control" required>
+                    <option value="Advanced">Advanced</option>
+                    <option value="Basic">Basic</option>
+                    <option value="Moderate">Moderate</option>
+                </select>
+            </div>
+            
+            <div class="form-group">
+                <label for="activity_name">Extracurricular activity:</label>
+                <select name="activity_name" id="activity_name" class="form-control" required>
+                    <option value="Debate Team">Debate Team</option>
+                    <option value="Drama Club">Drama Club</option>
+                    <option value="Music Band">Music Band</option>
+                    <option value="Science Club">Science Club</option>
+                    <option value="Football">Football</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="participation_level">Student's sports particiation level:</label>
+                <select name="participation_level" id="participation_level" class="form-control" required>
+                    <option value="High">High</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+
+            <div class="form-group">
+                <label for="achievement">Sports achievement:</label>
+                <select name="achievement" id="achievement" class="form-control" required>
+                    <option value="Local">Local</option>
+                    <option value="Regional">Regional</option>
+                    <option value="National">National</option>
+                    <option value="None">None</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="acad_level">Teacher's academic level:</label>
+                <select name="acad_level" id="acad_level" class="form-control" required>
+                    <option value="Doctorate">Doctorate</option>
+                    <option value="Bachelor's">Bachelor's</option>
+                    <option value="Master's">Master's</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="job_satisfaction">Teacher's job satisfaction:</label>
+                <select name="job_satisfaction" id="job_satisfaction" class="form-control" required>
+                    <option value="High">High</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="salary_satisfaction">Teacher's salary satisfaction:</label>
+                <select name="salary_satisfaction" id="salary_satisfaction" class="form-control" required>
+                    <option value="High">High</option>
+                    <option value="Moderate">Moderate</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="marital_status">Parent's marital status:</label>
+                <select name="marital_status" id="marital_status" class="form-control" required>
+                    <option value="Married">Married</option>
+                    <option value="Widowed">Widowed</option>
+                    <option value="Single">Single</option>
+                    <option value="Divorced">Divorced</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="edu_background">Parent's educational background:</label>
+                <select name="edu_background" id="edu_background" class="form-control" required>
+                    <option value="None">None</option>
+                    <option value="Primary">Primary</option>
+                    <option value="Tertiary">Tertiary</option>
+                    <option value="Secondary">Secondary</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="occupation">Parent's occupation:</label>
+                <select name="occupation" id="occupation" class="form-control" required>
+                    <option value="Unemployed">Unemployed</option>
+                    <option value="Private Sector">Private Sector</option>
+                    <option value="Public Sector">Public Sector</option>
+                    <option value="Self-Employed">Self-Employed</option>
+                </select>
+            </div>
+
+            <div class="form-group">
+                <label for="income_level">Parent's income level:</label>
+                <select name="income_level" id="income_level" class="form-control" required>
+                    <option value="High">High</option>
+                    <option value="Middle">Middle</option>
+                    <option value="Low">Low</option>
+                </select>
+            </div>
+
+            <button type="submit" class="btn btn-primary btn-block">Click here to get exam outcome</button>
+        </form>
+        
+        {{ prediction_text }}
+
+    </div>
+</body>
+</html>

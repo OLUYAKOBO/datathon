@@ -1,0 +1,501 @@
+parental_id,student_id,marital_status,educational_background,occupation,income_level,number_of_children
+1,1,Divorced,Primary,Private Sector,Middle,3
+2,2,Divorced,None,Private Sector,Middle,6
+3,3,Widowed,Tertiary,Unemployed,Low,3
+4,4,Single,None,Public Sector,High,6
+5,5,Divorced,Tertiary,Public Sector,Middle,7
+6,6,Single,Tertiary,Public Sector,High,2
+7,7,Divorced,Primary,Unemployed,Low,1
+8,8,Single,Secondary,Private Sector,Middle,3
+9,9,Widowed,Tertiary,Self-Employed,Middle,7
+10,10,Married,Secondary,Self-Employed,Low,6
+11,11,Widowed,Primary,Private Sector,Middle,4
+12,12,Married,Primary,Self-Employed,Middle,5
+13,13,Divorced,None,Unemployed,Low,1
+14,14,Married,Primary,Public Sector,Middle,1
+15,15,Single,Tertiary,Unemployed,Low,5
+16,16,Single,None,Self-Employed,Low,1
+17,17,Married,Secondary,Unemployed,Low,6
+18,18,Divorced,Secondary,Self-Employed,Middle,2
+19,19,Married,Tertiary,Unemployed,Low,1
+20,20,Married,Primary,Unemployed,Low,7
+21,21,Widowed,Primary,Private Sector,High,7
+22,22,Married,Tertiary,Private Sector,Middle,6
+23,23,Married,Tertiary,Self-Employed,Middle,3
+24,24,Widowed,None,Self-Employed,Middle,3
+25,25,Married,Primary,Private Sector,Middle,1
+26,26,Divorced,Secondary,Private Sector,Middle,4
+27,27,Divorced,Tertiary,Unemployed,Low,3
+28,28,Single,Tertiary,Unemployed,Low,7
+29,29,Single,None,Private Sector,Middle,4
+30,30,Divorced,Tertiary,Self-Employed,Low,7
+31,31,Divorced,Tertiary,Unemployed,Low,7
+32,32,Single,None,Self-Employed,Low,7
+33,33,Divorced,Primary,Public Sector,High,3
+34,34,Widowed,Tertiary,Public Sector,High,6
+35,35,Divorced,Tertiary,Public Sector,Middle,6
+36,36,Married,None,Unemployed,Low,1
+37,37,Widowed,Tertiary,Unemployed,Low,1
+38,38,Married,Secondary,Public Sector,Middle,5
+39,39,Married,Primary,Self-Employed,Middle,3
+40,40,Married,Tertiary,Unemployed,Low,7
+41,41,Divorced,None,Public Sector,High,1
+42,42,Divorced,Primary,Private Sector,Middle,3
+43,43,Widowed,None,Private Sector,Middle,2
+44,44,Divorced,Tertiary,Private Sector,Middle,3
+45,45,Widowed,Primary,Public Sector,Middle,7
+46,46,Divorced,Secondary,Self-Employed,Low,6
+47,47,Single,Primary,Unemployed,Low,2
+48,48,Divorced,Secondary,Private Sector,High,3
+49,49,Divorced,Tertiary,Private Sector,Middle,4
+50,50,Married,None,Self-Employed,Low,2
+51,51,Divorced,Tertiary,Unemployed,Low,2
+52,52,Single,Primary,Private Sector,High,2
+53,53,Divorced,None,Private Sector,Middle,4
+54,54,Widowed,Primary,Unemployed,Low,7
+55,55,Married,None,Private Sector,Middle,3
+56,56,Widowed,Primary,Self-Employed,Low,2
+57,57,Married,Primary,Self-Employed,Middle,6
+58,58,Married,Secondary,Self-Employed,Low,7
+59,59,Single,Secondary,Public Sector,High,1
+60,60,Single,Primary,Unemployed,Low,7
+61,61,Married,Secondary,Self-Employed,Middle,7
+62,62,Single,Primary,Public Sector,High,3
+63,63,Single,None,Self-Employed,Low,4
+64,64,Divorced,Tertiary,Self-Employed,Middle,4
+65,65,Widowed,None,Private Sector,High,5
+66,66,Widowed,Secondary,Self-Employed,Low,2
+67,67,Single,Primary,Unemployed,Low,7
+68,68,Divorced,None,Unemployed,Low,2
+69,69,Single,None,Unemployed,Low,5
+70,70,Married,None,Self-Employed,Middle,7
+71,71,Divorced,Secondary,Self-Employed,Middle,1
+72,72,Single,Primary,Private Sector,Middle,2
+73,73,Divorced,None,Unemployed,Low,6
+74,74,Divorced,Primary,Public Sector,High,7
+75,75,Divorced,Secondary,Private Sector,Middle,7
+76,76,Married,Secondary,Self-Employed,Middle,2
+77,77,Single,None,Public Sector,High,4
+78,78,Widowed,Secondary,Private Sector,Middle,7
+79,79,Divorced,Tertiary,Self-Employed,Low,7
+80,80,Widowed,Primary,Public Sector,Middle,5
+81,81,Single,Tertiary,Self-Employed,Middle,3
+82,82,Single,Tertiary,Private Sector,High,5
+83,83,Single,Primary,Unemployed,Low,7
+84,84,Married,None,Public Sector,High,3
+85,85,Married,None,Private Sector,High,3
+86,86,Divorced,Primary,Unemployed,Low,1
+87,87,Widowed,Primary,Unemployed,Low,5
+88,88,Married,None,Private Sector,High,6
+89,89,Divorced,None,Private Sector,High,6
+90,90,Married,Tertiary,Unemployed,Low,2
+91,91,Married,Secondary,Private Sector,High,5
+92,92,Single,None,Unemployed,Low,5
+93,93,Widowed,None,Public Sector,Middle,6
+94,94,Married,None,Unemployed,Low,1
+95,95,Married,Secondary,Unemployed,Low,1
+96,96,Divorced,Tertiary,Unemployed,Low,5
+97,97,Single,None,Unemployed,Low,5
+98,98,Single,Secondary,Public Sector,High,1
+99,99,Divorced,Primary,Public Sector,High,1
+100,100,Married,Tertiary,Private Sector,High,4
+101,101,Single,Secondary,Unemployed,Low,2
+102,102,Married,Secondary,Unemployed,Low,6
+103,103,Widowed,Primary,Private Sector,Middle,2
+104,104,Married,Secondary,Unemployed,Low,2
+105,105,Married,Secondary,Public Sector,Middle,6
+106,106,Widowed,Tertiary,Self-Employed,Low,4
+107,107,Single,Primary,Self-Employed,Middle,6
+108,108,Widowed,None,Private Sector,High,6
+109,109,Widowed,Tertiary,Self-Employed,Low,2
+110,110,Divorced,Tertiary,Unemployed,Low,2
+111,111,Single,Tertiary,Public Sector,Middle,1
+112,112,Married,Primary,Public Sector,Middle,3
+113,113,Divorced,Secondary,Self-Employed,Low,7
+114,114,Married,Primary,Private Sector,High,6
+115,115,Married,None,Unemployed,Low,2
+116,116,Married,Primary,Private Sector,Middle,5
+117,117,Single,None,Unemployed,Low,6
+118,118,Widowed,Tertiary,Unemployed,Low,7
+119,119,Widowed,None,Private Sector,Middle,4
+120,120,Married,Primary,Public Sector,Middle,3
+121,121,Married,None,Unemployed,Low,4
+122,122,Divorced,Secondary,Unemployed,Low,2
+123,123,Single,None,Unemployed,Low,2
+124,124,Widowed,Primary,Unemployed,Low,5
+125,125,Single,Tertiary,Private Sector,Middle,7
+126,126,Single,Primary,Public Sector,Middle,2
+127,127,Divorced,Primary,Self-Employed,Low,7
+128,128,Single,None,Unemployed,Low,4
+129,129,Married,None,Self-Employed,Middle,5
+130,130,Widowed,Primary,Public Sector,Middle,3
+131,131,Married,Tertiary,Self-Employed,Middle,6
+132,132,Married,Primary,Private Sector,High,7
+133,133,Divorced,Secondary,Public Sector,High,5
+134,134,Widowed,Tertiary,Public Sector,Middle,5
+135,135,Single,Tertiary,Public Sector,Middle,5
+136,136,Single,Tertiary,Public Sector,High,7
+137,137,Single,None,Public Sector,Middle,1
+138,138,Widowed,Tertiary,Self-Employed,Low,7
+139,139,Widowed,Tertiary,Public Sector,Middle,1
+140,140,Single,Tertiary,Self-Employed,Low,2
+141,141,Single,Primary,Self-Employed,Middle,2
+142,142,Married,None,Self-Employed,Middle,3
+143,143,Single,Tertiary,Private Sector,High,7
+144,144,Single,Tertiary,Public Sector,Middle,4
+145,145,Widowed,Tertiary,Private Sector,Middle,6
+146,146,Single,None,Private Sector,Middle,6
+147,147,Married,Primary,Private Sector,Middle,7
+148,148,Widowed,Tertiary,Unemployed,Low,5
+149,149,Married,None,Self-Employed,Middle,5
+150,150,Divorced,Tertiary,Private Sector,High,7
+151,151,Single,Primary,Unemployed,Low,2
+152,152,Single,Primary,Unemployed,Low,5
+153,153,Widowed,Secondary,Unemployed,Low,5
+154,154,Married,Tertiary,Private Sector,Middle,3
+155,155,Widowed,Primary,Private Sector,Middle,6
+156,156,Widowed,Primary,Unemployed,Low,4
+157,157,Widowed,Primary,Self-Employed,Low,7
+158,158,Widowed,Secondary,Private Sector,High,1
+159,159,Widowed,Tertiary,Unemployed,Low,7
+160,160,Single,Secondary,Self-Employed,Low,1
+161,161,Divorced,None,Self-Employed,Low,6
+162,162,Divorced,None,Public Sector,Middle,3
+163,163,Married,Primary,Unemployed,Low,6
+164,164,Widowed,None,Public Sector,High,3
+165,165,Divorced,None,Public Sector,Middle,2
+166,166,Married,Primary,Unemployed,Low,5
+167,167,Married,Tertiary,Unemployed,Low,4
+168,168,Widowed,Secondary,Private Sector,High,2
+169,169,Married,Secondary,Self-Employed,Middle,5
+170,170,Married,Secondary,Unemployed,Low,4
+171,171,Widowed,Tertiary,Unemployed,Low,7
+172,172,Single,Primary,Public Sector,High,6
+173,173,Divorced,None,Unemployed,Low,4
+174,174,Single,Tertiary,Private Sector,Middle,6
+175,175,Widowed,Tertiary,Public Sector,High,7
+176,176,Divorced,Primary,Unemployed,Low,7
+177,177,Divorced,Primary,Public Sector,High,6
+178,178,Single,None,Public Sector,Middle,3
+179,179,Widowed,None,Public Sector,High,3
+180,180,Widowed,Primary,Private Sector,Middle,5
+181,181,Single,None,Self-Employed,Middle,4
+182,182,Married,None,Public Sector,High,5
+183,183,Single,Secondary,Unemployed,Low,7
+184,184,Divorced,Secondary,Unemployed,Low,7
+185,185,Divorced,Secondary,Unemployed,Low,7
+186,186,Widowed,Tertiary,Unemployed,Low,4
+187,187,Widowed,None,Private Sector,High,4
+188,188,Married,Secondary,Unemployed,Low,5
+189,189,Widowed,Tertiary,Unemployed,Low,3
+190,190,Widowed,None,Unemployed,Low,3
+191,191,Divorced,Tertiary,Public Sector,High,7
+192,192,Widowed,Secondary,Public Sector,High,7
+193,193,Divorced,Secondary,Self-Employed,Low,4
+194,194,Widowed,Secondary,Private Sector,Middle,7
+195,195,Widowed,None,Private Sector,Middle,1
+196,196,Divorced,Primary,Self-Employed,Middle,7
+197,197,Married,Primary,Unemployed,Low,2
+198,198,Widowed,Secondary,Unemployed,Low,7
+199,199,Divorced,None,Public Sector,High,3
+200,200,Married,Primary,Unemployed,Low,2
+201,201,Married,None,Unemployed,Low,6
+202,202,Married,Secondary,Private Sector,Middle,3
+203,203,Widowed,Secondary,Private Sector,High,5
+204,204,Married,Secondary,Unemployed,Low,5
+205,205,Married,Tertiary,Self-Employed,Low,5
+206,206,Widowed,None,Unemployed,Low,6
+207,207,Single,None,Private Sector,Middle,3
+208,208,Divorced,Secondary,Self-Employed,Low,3
+209,209,Widowed,None,Self-Employed,Middle,6
+210,210,Married,Primary,Unemployed,Low,7
+211,211,Married,Primary,Private Sector,Middle,5
+212,212,Single,Primary,Self-Employed,Middle,4
+213,213,Widowed,None,Self-Employed,Middle,1
+214,214,Divorced,None,Public Sector,High,4
+215,215,Divorced,None,Public Sector,High,2
+216,216,Married,None,Unemployed,Low,2
+217,217,Married,None,Public Sector,High,5
+218,218,Widowed,None,Unemployed,Low,1
+219,219,Divorced,Tertiary,Unemployed,Low,7
+220,220,Divorced,Primary,Self-Employed,Low,7
+221,221,Widowed,None,Self-Employed,Low,3
+222,222,Single,None,Private Sector,High,3
+223,223,Widowed,Primary,Private Sector,Middle,7
+224,224,Divorced,Secondary,Public Sector,Middle,4
+225,225,Divorced,Secondary,Unemployed,Low,4
+226,226,Widowed,Secondary,Unemployed,Low,3
+227,227,Single,Primary,Private Sector,High,2
+228,228,Divorced,Secondary,Unemployed,Low,2
+229,229,Single,Secondary,Self-Employed,Middle,6
+230,230,Widowed,Tertiary,Private Sector,High,3
+231,231,Single,Tertiary,Private Sector,High,5
+232,232,Single,Tertiary,Private Sector,Middle,4
+233,233,Married,None,Private Sector,Middle,3
+234,234,Married,Secondary,Self-Employed,Middle,3
+235,235,Single,Secondary,Self-Employed,Middle,7
+236,236,Divorced,None,Public Sector,High,4
+237,237,Divorced,Primary,Unemployed,Low,6
+238,238,Married,Secondary,Self-Employed,Low,1
+239,239,Widowed,Tertiary,Unemployed,Low,5
+240,240,Married,Tertiary,Public Sector,High,4
+241,241,Married,Tertiary,Self-Employed,Middle,2
+242,242,Divorced,Primary,Self-Employed,Low,7
+243,243,Married,Secondary,Public Sector,Middle,1
+244,244,Single,Tertiary,Public Sector,Middle,1
+245,245,Divorced,Secondary,Private Sector,High,3
+246,246,Divorced,None,Public Sector,High,6
+247,247,Widowed,None,Public Sector,Middle,6
+248,248,Divorced,None,Public Sector,Middle,2
+249,249,Single,Tertiary,Self-Employed,Middle,2
+250,250,Widowed,Tertiary,Unemployed,Low,1
+251,251,Widowed,None,Public Sector,Middle,4
+252,252,Married,Tertiary,Public Sector,Middle,1
+253,253,Divorced,Secondary,Public Sector,High,5
+254,254,Widowed,None,Public Sector,Middle,3
+255,255,Single,Primary,Unemployed,Low,3
+256,256,Divorced,None,Unemployed,Low,1
+257,257,Single,Secondary,Self-Employed,Middle,5
+258,258,Married,Tertiary,Self-Employed,Low,2
+259,259,Married,None,Private Sector,High,6
+260,260,Married,Secondary,Private Sector,High,6
+261,261,Married,Secondary,Unemployed,Low,5
+262,262,Widowed,Secondary,Public Sector,Middle,5
+263,263,Married,Tertiary,Private Sector,High,7
+264,264,Widowed,Primary,Unemployed,Low,3
+265,265,Divorced,Secondary,Public Sector,High,5
+266,266,Married,None,Unemployed,Low,7
+267,267,Widowed,Tertiary,Public Sector,High,1
+268,268,Widowed,Secondary,Unemployed,Low,2
+269,269,Divorced,None,Unemployed,Low,5
+270,270,Single,None,Self-Employed,Low,3
+271,271,Single,Primary,Unemployed,Low,7
+272,272,Single,Secondary,Unemployed,Low,7
+273,273,Divorced,None,Public Sector,High,4
+274,274,Single,Tertiary,Public Sector,High,3
+275,275,Single,Primary,Self-Employed,Middle,1
+276,276,Married,Tertiary,Unemployed,Low,3
+277,277,Widowed,None,Self-Employed,Low,1
+278,278,Married,Secondary,Private Sector,Middle,2
+279,279,Single,Tertiary,Private Sector,High,4
+280,280,Single,None,Unemployed,Low,1
+281,281,Divorced,None,Private Sector,Middle,1
+282,282,Divorced,None,Public Sector,High,2
+283,283,Single,Tertiary,Self-Employed,Low,1
+284,284,Divorced,Primary,Private Sector,Middle,6
+285,285,Single,Primary,Unemployed,Low,5
+286,286,Single,Primary,Public Sector,High,2
+287,287,Widowed,None,Public Sector,High,4
+288,288,Single,Primary,Public Sector,Middle,7
+289,289,Married,None,Private Sector,Middle,5
+290,290,Married,None,Unemployed,Low,6
+291,291,Widowed,Secondary,Self-Employed,Middle,1
+292,292,Divorced,None,Unemployed,Low,3
+293,293,Widowed,Tertiary,Private Sector,Middle,7
+294,294,Divorced,Secondary,Self-Employed,Low,2
+295,295,Divorced,Secondary,Private Sector,High,7
+296,296,Divorced,Tertiary,Public Sector,High,5
+297,297,Single,Secondary,Self-Employed,Low,2
+298,298,Divorced,Tertiary,Private Sector,High,6
+299,299,Divorced,Primary,Self-Employed,Low,4
+300,300,Divorced,Tertiary,Public Sector,Middle,7
+301,301,Widowed,Secondary,Public Sector,Middle,1
+302,302,Married,Primary,Self-Employed,Low,4
+303,303,Widowed,Tertiary,Unemployed,Low,5
+304,304,Widowed,Primary,Self-Employed,Low,4
+305,305,Single,Tertiary,Self-Employed,Low,1
+306,306,Married,Secondary,Unemployed,Low,3
+307,307,Widowed,Primary,Unemployed,Low,7
+308,308,Widowed,Primary,Private Sector,Middle,4
+309,309,Widowed,None,Unemployed,Low,6
+310,310,Widowed,Secondary,Private Sector,High,5
+311,311,Widowed,Tertiary,Public Sector,Middle,7
+312,312,Divorced,Tertiary,Self-Employed,Middle,5
+313,313,Single,Primary,Unemployed,Low,4
+314,314,Married,None,Private Sector,High,4
+315,315,Married,None,Private Sector,Middle,6
+316,316,Married,Secondary,Public Sector,High,5
+317,317,Married,Secondary,Public Sector,Middle,4
+318,318,Widowed,Primary,Private Sector,High,3
+319,319,Widowed,Tertiary,Public Sector,Middle,1
+320,320,Divorced,Tertiary,Public Sector,Middle,2
+321,321,Married,Secondary,Self-Employed,Low,6
+322,322,Divorced,None,Private Sector,Middle,2
+323,323,Widowed,None,Unemployed,Low,1
+324,324,Divorced,Primary,Unemployed,Low,3
+325,325,Married,Tertiary,Self-Employed,Low,4
+326,326,Married,Primary,Public Sector,Middle,3
+327,327,Divorced,Secondary,Private Sector,High,7
+328,328,Divorced,Secondary,Self-Employed,Low,5
+329,329,Married,Secondary,Self-Employed,Low,5
+330,330,Married,Tertiary,Self-Employed,Middle,2
+331,331,Married,Tertiary,Unemployed,Low,6
+332,332,Married,Primary,Private Sector,High,4
+333,333,Single,Tertiary,Private Sector,High,7
+334,334,Married,Tertiary,Unemployed,Low,6
+335,335,Married,Primary,Unemployed,Low,5
+336,336,Married,Primary,Private Sector,Middle,5
+337,337,Divorced,None,Unemployed,Low,6
+338,338,Widowed,Tertiary,Unemployed,Low,1
+339,339,Married,None,Self-Employed,Middle,4
+340,340,Widowed,None,Unemployed,Low,2
+341,341,Married,Secondary,Public Sector,High,5
+342,342,Married,Primary,Unemployed,Low,6
+343,343,Divorced,None,Public Sector,Middle,1
+344,344,Married,Tertiary,Self-Employed,Low,1
+345,345,Married,Secondary,Public Sector,High,4
+346,346,Married,Secondary,Unemployed,Low,4
+347,347,Divorced,Secondary,Public Sector,High,1
+348,348,Married,Tertiary,Public Sector,High,6
+349,349,Widowed,Secondary,Unemployed,Low,2
+350,350,Single,None,Self-Employed,Low,2
+351,351,Divorced,Secondary,Unemployed,Low,6
+352,352,Divorced,Primary,Unemployed,Low,3
+353,353,Divorced,Secondary,Private Sector,High,6
+354,354,Single,Secondary,Self-Employed,Low,7
+355,355,Widowed,None,Private Sector,Middle,7
+356,356,Widowed,Secondary,Self-Employed,Middle,3
+357,357,Single,Tertiary,Self-Employed,Low,7
+358,358,Single,Tertiary,Self-Employed,Low,2
+359,359,Married,Secondary,Self-Employed,Middle,5
+360,360,Married,Tertiary,Self-Employed,Middle,1
+361,361,Widowed,Secondary,Private Sector,Middle,4
+362,362,Divorced,None,Public Sector,High,7
+363,363,Single,Primary,Public Sector,High,7
+364,364,Divorced,Tertiary,Private Sector,High,6
+365,365,Widowed,Tertiary,Unemployed,Low,3
+366,366,Single,Secondary,Self-Employed,Low,1
+367,367,Divorced,Tertiary,Self-Employed,Low,7
+368,368,Widowed,None,Unemployed,Low,7
+369,369,Widowed,None,Public Sector,High,6
+370,370,Divorced,Primary,Public Sector,High,4
+371,371,Married,Primary,Private Sector,High,1
+372,372,Widowed,Tertiary,Private Sector,High,4
+373,373,Widowed,None,Private Sector,High,6
+374,374,Widowed,Tertiary,Public Sector,High,5
+375,375,Divorced,Secondary,Self-Employed,Low,5
+376,376,Widowed,Secondary,Self-Employed,Middle,1
+377,377,Married,Secondary,Private Sector,High,7
+378,378,Married,None,Public Sector,Middle,1
+379,379,Married,Primary,Public Sector,Middle,3
+380,380,Married,Tertiary,Self-Employed,Low,4
+381,381,Divorced,Secondary,Unemployed,Low,5
+382,382,Widowed,None,Self-Employed,Middle,1
+383,383,Married,None,Public Sector,Middle,5
+384,384,Widowed,Primary,Unemployed,Low,2
+385,385,Married,Primary,Private Sector,Middle,3
+386,386,Married,Secondary,Self-Employed,Low,5
+387,387,Married,Tertiary,Private Sector,Middle,3
+388,388,Widowed,None,Public Sector,High,7
+389,389,Single,Secondary,Unemployed,Low,6
+390,390,Widowed,Tertiary,Unemployed,Low,4
+391,391,Married,Primary,Private Sector,Middle,2
+392,392,Divorced,Tertiary,Private Sector,Middle,3
+393,393,Married,None,Unemployed,Low,5
+394,394,Divorced,None,Unemployed,Low,7
+395,395,Single,Tertiary,Self-Employed,Middle,1
+396,396,Married,Secondary,Private Sector,Middle,2
+397,397,Married,Secondary,Self-Employed,Low,3
+398,398,Widowed,None,Self-Employed,Middle,2
+399,399,Widowed,Secondary,Public Sector,Middle,6
+400,400,Widowed,Primary,Unemployed,Low,2
+401,401,Single,Tertiary,Private Sector,High,3
+402,402,Widowed,Tertiary,Unemployed,Low,6
+403,403,Single,Primary,Unemployed,Low,4
+404,404,Widowed,Secondary,Unemployed,Low,1
+405,405,Widowed,Tertiary,Private Sector,High,4
+406,406,Widowed,Tertiary,Public Sector,Middle,2
+407,407,Single,None,Public Sector,Middle,5
+408,408,Single,None,Private Sector,Middle,1
+409,409,Widowed,Tertiary,Public Sector,Middle,6
+410,410,Single,Primary,Private Sector,High,2
+411,411,Single,Secondary,Public Sector,Middle,6
+412,412,Married,Secondary,Unemployed,Low,5
+413,413,Married,Secondary,Unemployed,Low,3
+414,414,Single,Tertiary,Private Sector,Middle,4
+415,415,Single,Primary,Private Sector,High,3
+416,416,Divorced,Primary,Self-Employed,Low,6
+417,417,Widowed,Tertiary,Self-Employed,Low,3
+418,418,Divorced,Primary,Private Sector,High,6
+419,419,Divorced,Primary,Self-Employed,Middle,6
+420,420,Single,None,Self-Employed,Low,3
+421,421,Divorced,Tertiary,Private Sector,High,7
+422,422,Widowed,Primary,Public Sector,Middle,7
+423,423,Married,Primary,Public Sector,Middle,2
+424,424,Widowed,Secondary,Unemployed,Low,7
+425,425,Single,None,Unemployed,Low,1
+426,426,Divorced,None,Private Sector,Middle,6
+427,427,Single,Secondary,Unemployed,Low,3
+428,428,Divorced,Primary,Unemployed,Low,7
+429,429,Married,Tertiary,Self-Employed,Low,4
+430,430,Single,Primary,Private Sector,High,5
+431,431,Widowed,Tertiary,Private Sector,High,7
+432,432,Widowed,Primary,Self-Employed,Low,7
+433,433,Divorced,Primary,Private Sector,High,1
+434,434,Widowed,Primary,Self-Employed,Middle,7
+435,435,Divorced,Secondary,Unemployed,Low,3
+436,436,Divorced,Primary,Public Sector,High,1
+437,437,Married,None,Public Sector,Middle,6
+438,438,Married,None,Public Sector,High,2
+439,439,Single,None,Public Sector,High,5
+440,440,Married,Primary,Self-Employed,Middle,6
+441,441,Widowed,Secondary,Private Sector,Middle,3
+442,442,Divorced,Secondary,Public Sector,Middle,2
+443,443,Divorced,Primary,Self-Employed,Low,5
+444,444,Widowed,Primary,Private Sector,Middle,3
+445,445,Widowed,Secondary,Public Sector,High,7
+446,446,Married,Primary,Self-Employed,Middle,6
+447,447,Widowed,Tertiary,Private Sector,High,6
+448,448,Married,Primary,Private Sector,High,2
+449,449,Widowed,Primary,Unemployed,Low,1
+450,450,Divorced,Primary,Private Sector,High,4
+451,451,Divorced,Primary,Self-Employed,Low,6
+452,452,Widowed,Primary,Unemployed,Low,1
+453,453,Single,Tertiary,Private Sector,High,4
+454,454,Single,Tertiary,Self-Employed,Middle,6
+455,455,Widowed,Secondary,Public Sector,High,3
+456,456,Married,None,Public Sector,Middle,2
+457,457,Married,None,Public Sector,High,3
+458,458,Divorced,Primary,Private Sector,Middle,7
+459,459,Widowed,None,Private Sector,High,3
+460,460,Single,Secondary,Self-Employed,Low,2
+461,461,Married,Primary,Public Sector,High,3
+462,462,Single,Secondary,Private Sector,Middle,1
+463,463,Widowed,None,Public Sector,High,1
+464,464,Single,None,Public Sector,Middle,7
+465,465,Married,Primary,Public Sector,Middle,1
+466,466,Married,None,Private Sector,High,5
+467,467,Widowed,Tertiary,Public Sector,High,7
+468,468,Married,Tertiary,Private Sector,Middle,4
+469,469,Widowed,Tertiary,Private Sector,Middle,5
+470,470,Married,Tertiary,Self-Employed,Low,3
+471,471,Divorced,Tertiary,Private Sector,High,1
+472,472,Widowed,Primary,Public Sector,High,7
+473,473,Divorced,Primary,Public Sector,High,2
+474,474,Married,Primary,Private Sector,Middle,2
+475,475,Single,None,Private Sector,High,3
+476,476,Married,None,Private Sector,Middle,1
+477,477,Widowed,None,Private Sector,Middle,2
+478,478,Married,Tertiary,Private Sector,High,3
+479,479,Married,Tertiary,Public Sector,Middle,7
+480,480,Married,None,Unemployed,Low,3
+481,481,Single,Tertiary,Self-Employed,Low,6
+482,482,Single,Primary,Public Sector,High,2
+483,483,Divorced,None,Unemployed,Low,7
+484,484,Married,Secondary,Self-Employed,Low,2
+485,485,Married,Secondary,Self-Employed,Middle,4
+486,486,Divorced,Primary,Self-Employed,Middle,4
+487,487,Widowed,Tertiary,Unemployed,Low,4
+488,488,Married,Tertiary,Self-Employed,Middle,3
+489,489,Divorced,Secondary,Public Sector,Middle,6
+490,490,Single,Secondary,Public Sector,High,2
+491,491,Married,Primary,Public Sector,Middle,1
+492,492,Married,Secondary,Private Sector,Middle,2
+493,493,Married,None,Private Sector,Middle,5
+494,494,Widowed,Primary,Self-Employed,Middle,5
+495,495,Married,Primary,Unemployed,Low,7
+496,496,Single,Secondary,Private Sector,Middle,5
+497,497,Married,None,Public Sector,Middle,2
+498,498,Divorced,Tertiary,Public Sector,Middle,6
+499,499,Single,None,Unemployed,Low,1
+500,500,Married,Primary,Private Sector,Middle,2

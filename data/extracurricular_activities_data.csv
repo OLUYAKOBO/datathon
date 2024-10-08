@@ -1,0 +1,501 @@
+activity_id,activity_name,student_id,participation_level,achievement
+1,Science Club,1,Moderate,National
+2,Debate Team,2,High,Local
+3,Debate Team,3,High,None
+4,Football,4,High,National
+5,Music Band,5,Moderate,Regional
+6,Football,6,Low,National
+7,Football,7,High,Regional
+8,Debate Team,8,High,Local
+9,Science Club,9,Low,None
+10,Football,10,High,Local
+11,Science Club,11,Low,National
+12,Debate Team,12,High,Regional
+13,Football,13,Low,National
+14,Football,14,Low,None
+15,Football,15,Moderate,Regional
+16,Music Band,16,Low,National
+17,Science Club,17,High,National
+18,Drama Club,18,Moderate,Local
+19,Science Club,19,Low,Regional
+20,Football,20,Low,None
+21,Science Club,21,High,Local
+22,Music Band,22,Low,National
+23,Music Band,23,High,Regional
+24,Science Club,24,Moderate,Local
+25,Music Band,25,Moderate,Local
+26,Science Club,26,Low,None
+27,Music Band,27,Moderate,Regional
+28,Debate Team,28,Low,None
+29,Football,29,High,None
+30,Football,30,Low,Regional
+31,Music Band,31,Moderate,Regional
+32,Debate Team,32,High,Local
+33,Music Band,33,Low,Regional
+34,Drama Club,34,High,Local
+35,Debate Team,35,Moderate,None
+36,Science Club,36,High,National
+37,Science Club,37,High,Regional
+38,Science Club,38,Low,National
+39,Drama Club,39,Low,None
+40,Drama Club,40,High,Local
+41,Music Band,41,Moderate,Regional
+42,Drama Club,42,Moderate,None
+43,Drama Club,43,Moderate,Regional
+44,Music Band,44,Moderate,Local
+45,Music Band,45,Moderate,Local
+46,Debate Team,46,Moderate,Regional
+47,Drama Club,47,Low,Local
+48,Debate Team,48,High,None
+49,Football,49,Low,None
+50,Music Band,50,Moderate,Local
+51,Football,51,Low,Regional
+52,Drama Club,52,Moderate,Regional
+53,Drama Club,53,Low,National
+54,Football,54,Low,Local
+55,Debate Team,55,High,National
+56,Science Club,56,Moderate,Local
+57,Science Club,57,Moderate,None
+58,Music Band,58,Low,None
+59,Football,59,Moderate,None
+60,Drama Club,60,Moderate,National
+61,Debate Team,61,Moderate,National
+62,Drama Club,62,Moderate,National
+63,Debate Team,63,Moderate,Local
+64,Science Club,64,Moderate,National
+65,Science Club,65,Moderate,None
+66,Music Band,66,Low,National
+67,Science Club,67,Moderate,None
+68,Music Band,68,Low,Local
+69,Drama Club,69,Moderate,None
+70,Drama Club,70,Low,None
+71,Drama Club,71,High,Local
+72,Football,72,High,Local
+73,Drama Club,73,High,None
+74,Football,74,Moderate,National
+75,Music Band,75,High,National
+76,Science Club,76,Moderate,Local
+77,Drama Club,77,Low,Local
+78,Science Club,78,Low,Regional
+79,Music Band,79,High,Regional
+80,Music Band,80,High,None
+81,Debate Team,81,Moderate,National
+82,Music Band,82,Low,Local
+83,Football,83,Low,None
+84,Football,84,Moderate,National
+85,Football,85,Moderate,Regional
+86,Debate Team,86,Low,Regional
+87,Drama Club,87,High,Local
+88,Football,88,Moderate,Regional
+89,Football,89,High,Regional
+90,Football,90,High,None
+91,Drama Club,91,Low,Regional
+92,Drama Club,92,Moderate,Regional
+93,Drama Club,93,High,National
+94,Music Band,94,Moderate,Local
+95,Debate Team,95,High,National
+96,Football,96,High,National
+97,Music Band,97,Low,None
+98,Science Club,98,Low,None
+99,Music Band,99,Moderate,None
+100,Science Club,100,High,Local
+101,Drama Club,101,High,Local
+102,Debate Team,102,Moderate,Regional
+103,Music Band,103,Moderate,Regional
+104,Drama Club,104,Moderate,None
+105,Debate Team,105,Low,National
+106,Drama Club,106,Moderate,None
+107,Science Club,107,Low,National
+108,Drama Club,108,Low,None
+109,Debate Team,109,Low,Local
+110,Drama Club,110,High,Local
+111,Drama Club,111,Moderate,National
+112,Football,112,High,Regional
+113,Football,113,High,Local
+114,Football,114,Low,Regional
+115,Debate Team,115,High,None
+116,Music Band,116,Moderate,National
+117,Music Band,117,High,National
+118,Drama Club,118,High,Regional
+119,Debate Team,119,High,None
+120,Music Band,120,High,Local
+121,Debate Team,121,High,Local
+122,Football,122,Low,National
+123,Debate Team,123,Moderate,None
+124,Football,124,High,Regional
+125,Music Band,125,Moderate,National
+126,Debate Team,126,High,Regional
+127,Music Band,127,Low,None
+128,Football,128,High,None
+129,Music Band,129,High,None
+130,Football,130,Moderate,National
+131,Football,131,High,None
+132,Music Band,132,Low,None
+133,Debate Team,133,High,Local
+134,Music Band,134,High,Local
+135,Debate Team,135,Moderate,None
+136,Science Club,136,Moderate,Local
+137,Football,137,High,None
+138,Football,138,Low,None
+139,Football,139,Moderate,Local
+140,Debate Team,140,Low,None
+141,Football,141,Low,None
+142,Science Club,142,Moderate,National
+143,Science Club,143,High,National
+144,Music Band,144,Low,National
+145,Football,145,High,Local
+146,Science Club,146,Moderate,Regional
+147,Music Band,147,Moderate,National
+148,Drama Club,148,Low,National
+149,Science Club,149,Low,Regional
+150,Drama Club,150,Low,None
+151,Science Club,151,High,Local
+152,Debate Team,152,High,None
+153,Drama Club,153,Moderate,National
+154,Music Band,154,Moderate,Regional
+155,Debate Team,155,Moderate,Regional
+156,Science Club,156,Moderate,Local
+157,Drama Club,157,Low,Local
+158,Music Band,158,Low,Regional
+159,Debate Team,159,Moderate,National
+160,Music Band,160,High,Regional
+161,Drama Club,161,High,Regional
+162,Music Band,162,Low,Local
+163,Science Club,163,High,Local
+164,Football,164,High,Regional
+165,Debate Team,165,Moderate,Local
+166,Football,166,Moderate,National
+167,Music Band,167,High,None
+168,Football,168,High,Regional
+169,Drama Club,169,Low,None
+170,Debate Team,170,High,Regional
+171,Debate Team,171,Low,National
+172,Drama Club,172,Low,National
+173,Drama Club,173,High,Local
+174,Football,174,High,Local
+175,Football,175,Low,None
+176,Music Band,176,Moderate,National
+177,Music Band,177,Low,Regional
+178,Drama Club,178,Moderate,National
+179,Football,179,Low,National
+180,Science Club,180,Moderate,National
+181,Music Band,181,Low,Local
+182,Drama Club,182,Moderate,Regional
+183,Music Band,183,High,Regional
+184,Debate Team,184,Low,Regional
+185,Drama Club,185,High,National
+186,Debate Team,186,High,Regional
+187,Drama Club,187,Low,National
+188,Debate Team,188,Low,Local
+189,Music Band,189,Moderate,None
+190,Football,190,Low,National
+191,Science Club,191,Low,National
+192,Music Band,192,High,Local
+193,Drama Club,193,High,National
+194,Music Band,194,Moderate,None
+195,Science Club,195,Low,Regional
+196,Debate Team,196,Moderate,None
+197,Music Band,197,High,Regional
+198,Music Band,198,Moderate,Local
+199,Drama Club,199,High,Regional
+200,Debate Team,200,High,National
+201,Drama Club,201,Low,None
+202,Debate Team,202,Low,National
+203,Science Club,203,Moderate,None
+204,Science Club,204,Moderate,None
+205,Drama Club,205,High,Regional
+206,Football,206,High,Regional
+207,Debate Team,207,Low,None
+208,Music Band,208,Low,Regional
+209,Debate Team,209,Moderate,None
+210,Football,210,High,Local
+211,Football,211,Low,Regional
+212,Science Club,212,Moderate,Local
+213,Debate Team,213,High,Local
+214,Debate Team,214,Moderate,National
+215,Drama Club,215,Moderate,None
+216,Music Band,216,Moderate,Local
+217,Debate Team,217,Low,Regional
+218,Debate Team,218,High,None
+219,Science Club,219,Moderate,National
+220,Football,220,Low,National
+221,Debate Team,221,Moderate,Regional
+222,Debate Team,222,High,National
+223,Science Club,223,High,None
+224,Science Club,224,Low,Regional
+225,Music Band,225,Moderate,National
+226,Football,226,Moderate,National
+227,Science Club,227,Low,National
+228,Football,228,Low,National
+229,Science Club,229,Moderate,Regional
+230,Debate Team,230,Low,Regional
+231,Science Club,231,Moderate,Local
+232,Football,232,High,Local
+233,Drama Club,233,High,None
+234,Debate Team,234,High,Local
+235,Football,235,Low,Regional
+236,Football,236,Low,Regional
+237,Science Club,237,Moderate,National
+238,Drama Club,238,High,National
+239,Drama Club,239,High,National
+240,Drama Club,240,Low,Regional
+241,Science Club,241,Moderate,National
+242,Football,242,High,National
+243,Debate Team,243,High,Local
+244,Music Band,244,Low,National
+245,Drama Club,245,Low,National
+246,Football,246,High,National
+247,Debate Team,247,High,Regional
+248,Music Band,248,High,None
+249,Debate Team,249,High,Local
+250,Drama Club,250,Moderate,None
+251,Science Club,251,Moderate,None
+252,Music Band,252,High,Local
+253,Debate Team,253,High,National
+254,Debate Team,254,High,Local
+255,Science Club,255,Moderate,None
+256,Drama Club,256,High,None
+257,Science Club,257,High,Local
+258,Football,258,High,Local
+259,Science Club,259,High,National
+260,Debate Team,260,Moderate,None
+261,Music Band,261,Moderate,Local
+262,Science Club,262,High,None
+263,Drama Club,263,Low,Regional
+264,Football,264,High,Local
+265,Debate Team,265,High,Local
+266,Music Band,266,Low,Regional
+267,Music Band,267,Moderate,National
+268,Drama Club,268,Moderate,National
+269,Music Band,269,Low,National
+270,Music Band,270,High,None
+271,Debate Team,271,Moderate,Regional
+272,Debate Team,272,Moderate,National
+273,Music Band,273,Low,Local
+274,Drama Club,274,Moderate,Regional
+275,Music Band,275,High,National
+276,Drama Club,276,Moderate,Regional
+277,Music Band,277,High,Regional
+278,Debate Team,278,Moderate,None
+279,Debate Team,279,High,Regional
+280,Science Club,280,Low,Regional
+281,Music Band,281,Moderate,Regional
+282,Music Band,282,High,Regional
+283,Debate Team,283,Low,None
+284,Football,284,Low,None
+285,Science Club,285,High,None
+286,Science Club,286,High,Regional
+287,Football,287,Moderate,Local
+288,Science Club,288,High,None
+289,Science Club,289,Low,Local
+290,Music Band,290,High,Regional
+291,Debate Team,291,Low,Local
+292,Science Club,292,Moderate,Regional
+293,Debate Team,293,Low,None
+294,Science Club,294,High,None
+295,Music Band,295,High,National
+296,Music Band,296,Moderate,Local
+297,Music Band,297,Low,Local
+298,Drama Club,298,Low,Local
+299,Science Club,299,Moderate,National
+300,Drama Club,300,High,None
+301,Drama Club,301,High,Local
+302,Football,302,Low,Local
+303,Football,303,Moderate,Local
+304,Music Band,304,Low,Regional
+305,Drama Club,305,Moderate,Local
+306,Drama Club,306,Moderate,Regional
+307,Debate Team,307,High,Local
+308,Debate Team,308,Low,National
+309,Science Club,309,High,Regional
+310,Music Band,310,Low,Regional
+311,Debate Team,311,Low,None
+312,Debate Team,312,Low,National
+313,Music Band,313,Low,Regional
+314,Debate Team,314,High,Regional
+315,Music Band,315,Moderate,Local
+316,Football,316,Low,Local
+317,Football,317,Low,National
+318,Football,318,Moderate,Regional
+319,Football,319,High,Local
+320,Football,320,High,National
+321,Football,321,Low,National
+322,Music Band,322,Moderate,Regional
+323,Debate Team,323,Low,Local
+324,Science Club,324,High,Regional
+325,Music Band,325,Moderate,Regional
+326,Science Club,326,Moderate,National
+327,Drama Club,327,High,None
+328,Football,328,Moderate,Local
+329,Science Club,329,Moderate,Regional
+330,Music Band,330,Moderate,Regional
+331,Music Band,331,High,Regional
+332,Science Club,332,Moderate,None
+333,Debate Team,333,High,Local
+334,Debate Team,334,High,None
+335,Drama Club,335,Moderate,Local
+336,Drama Club,336,High,Regional
+337,Drama Club,337,Moderate,Regional
+338,Drama Club,338,Low,National
+339,Science Club,339,Moderate,National
+340,Football,340,Moderate,Local
+341,Drama Club,341,Moderate,Local
+342,Science Club,342,Low,National
+343,Drama Club,343,High,Local
+344,Music Band,344,High,Regional
+345,Drama Club,345,High,Local
+346,Drama Club,346,High,Regional
+347,Debate Team,347,Moderate,Regional
+348,Science Club,348,Low,None
+349,Debate Team,349,Moderate,National
+350,Science Club,350,Moderate,Regional
+351,Science Club,351,Low,None
+352,Science Club,352,Moderate,Regional
+353,Science Club,353,High,Regional
+354,Drama Club,354,Low,Regional
+355,Debate Team,355,High,Regional
+356,Music Band,356,High,Local
+357,Drama Club,357,Moderate,None
+358,Debate Team,358,Moderate,None
+359,Music Band,359,Low,National
+360,Football,360,High,None
+361,Drama Club,361,High,Local
+362,Football,362,Low,Local
+363,Debate Team,363,High,None
+364,Drama Club,364,High,None
+365,Football,365,Low,Regional
+366,Football,366,Moderate,National
+367,Debate Team,367,Low,None
+368,Football,368,High,National
+369,Music Band,369,Moderate,Regional
+370,Science Club,370,Low,None
+371,Science Club,371,Low,National
+372,Drama Club,372,Moderate,Local
+373,Music Band,373,Low,Local
+374,Music Band,374,Low,National
+375,Science Club,375,Low,National
+376,Football,376,High,None
+377,Football,377,High,None
+378,Music Band,378,High,None
+379,Debate Team,379,Low,Regional
+380,Debate Team,380,High,Regional
+381,Football,381,High,None
+382,Science Club,382,Moderate,None
+383,Debate Team,383,High,National
+384,Debate Team,384,Moderate,Regional
+385,Football,385,Low,Local
+386,Debate Team,386,Low,Local
+387,Science Club,387,High,Regional
+388,Drama Club,388,Low,National
+389,Science Club,389,Moderate,Local
+390,Debate Team,390,Moderate,None
+391,Football,391,Moderate,Local
+392,Football,392,High,Local
+393,Debate Team,393,High,Local
+394,Science Club,394,Low,Regional
+395,Music Band,395,High,National
+396,Debate Team,396,High,Local
+397,Football,397,Low,National
+398,Debate Team,398,Moderate,None
+399,Science Club,399,Low,Regional
+400,Drama Club,400,High,Local
+401,Drama Club,401,Moderate,Local
+402,Drama Club,402,High,Local
+403,Debate Team,403,Moderate,National
+404,Debate Team,404,Moderate,National
+405,Debate Team,405,Low,Local
+406,Debate Team,406,High,Local
+407,Music Band,407,Low,None
+408,Drama Club,408,Moderate,None
+409,Science Club,409,High,Local
+410,Science Club,410,Moderate,Regional
+411,Drama Club,411,Low,None
+412,Drama Club,412,Low,National
+413,Music Band,413,Low,Local
+414,Music Band,414,Low,None
+415,Debate Team,415,Moderate,Local
+416,Debate Team,416,Low,National
+417,Drama Club,417,Low,Local
+418,Football,418,Moderate,Regional
+419,Drama Club,419,Moderate,National
+420,Debate Team,420,High,Regional
+421,Science Club,421,Moderate,Local
+422,Debate Team,422,Moderate,Regional
+423,Debate Team,423,Low,Local
+424,Science Club,424,Low,None
+425,Debate Team,425,High,Regional
+426,Debate Team,426,High,Local
+427,Drama Club,427,High,Regional
+428,Drama Club,428,Low,Regional
+429,Football,429,Low,National
+430,Football,430,Low,None
+431,Drama Club,431,Moderate,Regional
+432,Football,432,Low,Local
+433,Science Club,433,Moderate,Regional
+434,Drama Club,434,Low,None
+435,Music Band,435,High,Local
+436,Science Club,436,High,National
+437,Debate Team,437,Moderate,National
+438,Football,438,Low,Local
+439,Debate Team,439,Moderate,None
+440,Debate Team,440,High,Local
+441,Drama Club,441,Moderate,Local
+442,Drama Club,442,High,National
+443,Football,443,Moderate,Regional
+444,Drama Club,444,Moderate,Regional
+445,Drama Club,445,Moderate,Local
+446,Drama Club,446,Low,National
+447,Drama Club,447,Low,Regional
+448,Football,448,Moderate,Regional
+449,Football,449,Moderate,National
+450,Science Club,450,Low,National
+451,Science Club,451,High,Local
+452,Science Club,452,Moderate,Regional
+453,Debate Team,453,High,None
+454,Debate Team,454,Moderate,National
+455,Debate Team,455,High,None
+456,Football,456,Moderate,Local
+457,Music Band,457,Low,Local
+458,Debate Team,458,Low,National
+459,Science Club,459,High,National
+460,Music Band,460,High,None
+461,Football,461,High,National
+462,Debate Team,462,High,Regional
+463,Science Club,463,High,Local
+464,Drama Club,464,Moderate,Local
+465,Debate Team,465,High,None
+466,Debate Team,466,Low,Local
+467,Music Band,467,Low,Local
+468,Music Band,468,High,None
+469,Debate Team,469,Moderate,National
+470,Music Band,470,Low,Regional
+471,Debate Team,471,Low,National
+472,Drama Club,472,Low,None
+473,Music Band,473,Low,None
+474,Science Club,474,High,Local
+475,Drama Club,475,High,Local
+476,Science Club,476,Moderate,Regional
+477,Music Band,477,High,National
+478,Drama Club,478,Moderate,National
+479,Music Band,479,Low,None
+480,Drama Club,480,High,Local
+481,Music Band,481,Moderate,None
+482,Debate Team,482,Low,National
+483,Drama Club,483,High,Local
+484,Science Club,484,Low,Regional
+485,Music Band,485,High,None
+486,Football,486,Moderate,Regional
+487,Drama Club,487,Low,Regional
+488,Music Band,488,High,Local
+489,Science Club,489,High,Local
+490,Science Club,490,High,Regional
+491,Music Band,491,Low,None
+492,Science Club,492,High,Regional
+493,Science Club,493,Moderate,None
+494,Football,494,Low,None
+495,Science Club,495,High,Local
+496,Drama Club,496,Moderate,None
+497,Drama Club,497,High,Regional
+498,Science Club,498,Moderate,National
+499,Drama Club,499,High,None
+500,Drama Club,500,Low,Regional
